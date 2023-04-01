@@ -74,6 +74,8 @@
 
   自学unity shader PFtrack等视频处理程序解析到3d空间数据圆满完成unity ar相关的业务需求，实现了国内首个室内AR骑行的产品,目前已经发布Beta版本。
 
+  主动集成App Center用于监控前端异常（包括偶发的闪退，硬件通讯异常，android或ios版本兼容性等问题),及时定位线上问题并上报。
+
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
