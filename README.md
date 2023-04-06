@@ -1,5 +1,5 @@
- <center>
-     <h1>faaccy</h1>
+ <div align="center">
+     <h1>lishuo</h1>
      <div>
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
@@ -8,10 +8,10 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/faaccy">faaccy</a>
+             <a href="https://github.com/lishuo710">lishuo</a>
          </span>
      </div>
- </center>
+ </div>
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
