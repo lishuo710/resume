@@ -53,9 +53,9 @@
 
   #### <strong>技术解决方案：</strong>
 
-  - 第一阶段：在第一个里程碑中，早期我们已经由了基于WPF结合CEF的PC端App,我们团队根据既有场景，采用react-native结合react native mapbox开发第一个移动端App。
+  - 第一阶段：在第一个里程碑中，早期我们已经有了基于WPF结合CEF的PC端App,我根据既有场景和需求，采用react-native结合react native mapbox(全球地图sdk)开发第一个移动端App。
 
-  - 第二阶段：第二阶段，根据业务需求已经react-native在webgl结合多人联机等复杂的业务场景下用户体验和性能表现瓶颈的情况下，决定采用unity3d结合unity-mapbox完成更加真实的3D骑行。
+  - 第二阶段：根据业务需求已经react-native在webgl结合多人联机等复杂的业务场景下用户体验和性能表现瓶颈的情况下，决定采用unity3d结合unity-mapbox完成更加真实的3D骑行。
 
   - 第三阶段：在现有unity版本的基础上为了实现AR骑行，我了解AR相关的技术，并成功验证了CG相关技术和unity3d结合迭代出第一版本基于Video的AR骑行。
 
